@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+My Favourite Things
+
+* My Favourite food
+  * Eggs Benny
+* My Favourite Drink
+  * Mocha
+* My Favourite Animal
+  * Llama
